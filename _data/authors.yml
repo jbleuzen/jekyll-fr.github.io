@@ -8,3 +8,18 @@ frank:
   twitter: DirtyF
   github: DirtyF
   web: http://frank.taillandier.me/
+boris:
+  name: Boris Schapira
+  twitter: borisschapira
+  github: borisschapira
+  web: https://borisschapira.com/
+nicolas:
+  name: Nicolas Hoizey
+  twitter: nhoizey
+  github: nhoizey
+  web: https://nicolas-hoizey.com/
+johan:
+  name: Johan Bleuzen
+  twitter: jbleuzen
+  github: jbleuzen
+  web: https://www.johanbleuzen.fr/
